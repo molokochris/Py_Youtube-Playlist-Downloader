@@ -1,5 +1,7 @@
 # YouTube Playlist Downloader
 
+![App Images](https://github.com/molokochris/Youtube-Playlist-Downloader-CLI/blob/main/assets/app-screenshot.png?raw=true)
+
 ## Overview
 
 The YouTube Playlist Downloader is a command-line tool that allows users to download all videos from a YouTube playlist. The program also saves metadata for each video, such as the title, description, views, length, rating, author, and publish date.
