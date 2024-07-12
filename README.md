@@ -1,5 +1,7 @@
 # YouTube Playlist Downloader
 
+![App Images](https://github.com/molokochris/Youtube-Playlist-Downloader-CLI/blob/main/assets/app-screenshot.png?raw=true)
+
 ## Overview
 
 The YouTube Playlist Downloader is a command-line tool that allows users to download all videos from a YouTube playlist. The program also saves metadata for each video, such as the title, description, views, length, rating, author, and publish date.
@@ -18,9 +20,6 @@ The program creates a directory for the playlist and stores all downloaded video
 ### Prerequisites
 
 - Make sure you have Python installed on your system.
-- Install the required Python packages using the following command:
-  ```bash
-  pip install pytube colorama
 
 # Running the Program
 You can run the program by executing the provided executable file created with PyInstaller. Follow the steps below:
